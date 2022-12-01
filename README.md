@@ -9,6 +9,10 @@ Install my fork with [plug](https://github.com/junegunn/vim-plug) adding the fol
 ```VimL
 Plug 'r4v10l1/vim-fourmolu'
 ```
+Or the original one by feature-not-a-bug with:
+```VimL
+Plug 'feature-not-a-bug/vim-fourmolu'
+```
 
 ## Configuration
 If you only want to format content manually setting the following variable to 0 will disable automatic formatting when saving your file:
