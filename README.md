@@ -9,7 +9,7 @@ Install my fork with [plug](https://github.com/junegunn/vim-plug) adding the fol
 ```VimL
 Plug 'r4v10l1/vim-fourmolu'
 ```
-Or the original one by feature-not-a-bug with:
+Or the original one by [feature-not-a-bug](https://github.com/feature-not-a-bug) with:
 ```VimL
 Plug 'feature-not-a-bug/vim-fourmolu'
 ```
